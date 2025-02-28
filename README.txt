@@ -1,0 +1,9 @@
+Group: 
+    1.Katlego Letsoalo (Group Leader)
+    2.Katlego Mojapelo
+    3.Olebogeng Leketi
+    4.Abongile Gqokoma, Ntsika
+
+NOTE: IN ORDER TO USE THE DISCUSSION YOU NEED TO INSTALL NODE.JS FRAMEWORK AND START YOUR SERVER USING BASH ON VS CODE 
+BY TYPING (npm rundevStart). ENSURE THAT YOU OPEN THE INDEX FOLDER IN VS CODE. I COULD SEND A VIDEO OF HOW IT WORKS ON MY
+PC ?
